@@ -6,9 +6,9 @@
 
 
 
-char auth[] = "e9572092ccc24432b14a6a4ff3e6173b";
-char ssid[] = "WiFi Super";
-char pass[] = "m0ZcvXjftCyaa8/zsBcNRGGowHkCwuBw";
+char auth[] = "blynk_token";
+char ssid[] = "wifi_name";
+char pass[] = "wifi_pass";
 
 bool sensor0 = false;
 unsigned long CurrentTime;
